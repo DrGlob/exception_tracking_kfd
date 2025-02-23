@@ -1,0 +1,5 @@
+spring:
+    application:
+        name=warning-tracker
+server:
+    port: 8083
